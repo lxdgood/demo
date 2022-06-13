@@ -6,5 +6,6 @@ public class testgit {
         System.out.println("hot-fix-git1");
         System.out.println("master-git2");
         System.out.println("hot-fix-git2");
+        System.out.println("pull test")
     }
 }
